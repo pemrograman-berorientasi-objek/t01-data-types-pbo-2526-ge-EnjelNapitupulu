@@ -1,0 +1,8 @@
+kerjakan
+jelaskan apa maksud soal nya agar saya bisa kerjain sendiri
+kerjakan soal nomor 1
+kerjainnya disini
+cara ngecompile soal nomor 1 gimana logicnya?
+jadi kan code buat soal nomor 1 samapi 5 ada di file yang main.java, gimana cara nge compilenya. mulai dari nomor 1 dulu
+tutorial ngecompilenya
+gabisa ini
